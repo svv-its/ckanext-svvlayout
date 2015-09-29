@@ -1,0 +1,57 @@
+/* Egendefinert CSS for Statens vegvesen*/
+
+
+.homepage .module-search .module-content {
+   background-color: #ed9300;
+    }
+
+.account-masthead {  
+    /* background-color: #ed9300;  */
+    background-color: #444f55
+    }
+
+.masthead, .account-masthead .account ul li a {  
+    background-color: #444f55;
+    color: #ffffff;
+    } 
+
+.site-footer, .site-footer a , .site-footer label, .site-footer small {  
+    background-color: #444f55;
+    color: #ffffff;
+    } 
+
+body { 
+    background-color:  #444f55
+    }
+
+.hero {
+    background-image: none;
+    background-color: #eeeeee;
+    }
+
+a {
+    color: #222222;
+    text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  /* color: #111111; */
+  border-bottom: 1px solid #ed9300;
+  text-decoration: none;
+  /*text-decoration: underline;*/
+}
+
+.homepage .stats ul li a {
+    color: #444f55;
+    }
+    
+.homepage .stats ul li a:hover, .homepage .stats ul li a:focus {
+    color: #ed9300;
+    border-bottom: none;
+    }
+    
+
+.control-medium input#field-en_url {
+    width: 200px;
+}
