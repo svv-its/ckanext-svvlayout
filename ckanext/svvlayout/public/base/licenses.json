@@ -1,0 +1,71 @@
+[
+  {
+    "domain_content": false, 
+    "domain_data": false, 
+    "domain_software": false, 
+    "family": "", 
+    "id": "notspecified", 
+    "is_generic": true, 
+    "maintainer": "", 
+    "od_conformance": "not reviewed", 
+    "osd_conformance": "not reviewed", 
+    "status": "active", 
+    "title": "Lisens ikke oppgitt", 
+    "url": ""
+  }, 
+  {
+    "domain_content": true, 
+    "domain_data": false, 
+    "domain_software": false, 
+    "family": "", 
+    "id": "NLOD-1.0", 
+    "is_generic": true, 
+    "maintainer": "", 
+    "od_conformance": "approved", 
+    "osd_conformance": "not reviewed", 
+    "status": "active", 
+    "title": "Norsk lisens for offentlige data (NLOD)",
+    "url": "https://data.norge.no/nlod/no"
+  }, 
+  {
+    "domain_content": true, 
+    "domain_data": true, 
+    "domain_software": false, 
+    "family": "", 
+    "id": "CC-BY-4.0", 
+    "maintainer": "Creative Commons", 
+    "od_conformance": "approved", 
+    "osd_conformance": "not reviewed", 
+    "status": "active", 
+    "title": "Creative Commons Navngivelse 4.0", 
+    "url": "https://creativecommons.org/licenses/by/4.0/deed.no"
+  }, 
+  {
+    "domain_content": true, 
+    "domain_data": false, 
+    "domain_software": false, 
+    "family": "", 
+    "id": "other-at", 
+    "is_generic": true, 
+    "maintainer": "", 
+    "od_conformance": "approved", 
+    "osd_conformance": "not reviewed", 
+    "status": "active", 
+    "title": "Annet (navngivelse)", 
+    "url": ""
+  }, 
+  {
+    "domain_content": false, 
+    "domain_data": false, 
+    "domain_software": false, 
+    "family": "", 
+    "id": "other-closed", 
+    "is_generic": true, 
+    "maintainer": "", 
+    "od_conformance": "not reviewed", 
+    "osd_conformance": "not reviewed", 
+    "status": "active", 
+    "title": "Annet (ikke åpen)", 
+    "url": ""
+  }
+]
