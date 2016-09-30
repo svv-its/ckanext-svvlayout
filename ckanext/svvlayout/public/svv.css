@@ -42,6 +42,12 @@ a:focus {
   /*text-decoration: underline;*/
 }
 
+a.logo:hover,
+a.logo:focus {
+  border-bottom: none;
+  text-decoration: none;
+}
+
 .homepage .stats ul li a {
     color: #444f55;
     }
