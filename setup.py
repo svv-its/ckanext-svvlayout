@@ -18,7 +18,7 @@ setup(
     license='',
     classifiers=[], # Get strings from http://pypi.python.org/pypi?%3Aaction=list_classifiers
     keywords='CKAN SVV CSS layout',
-    namespace_packages=['ckanext', 'ckanext.svvlayout'],
+    namespace_packages=['ckanext'],
     packages=find_packages(exclude=['contrib', 'docs', 'tests*']),
     install_requires=[],
     include_package_data=True,
