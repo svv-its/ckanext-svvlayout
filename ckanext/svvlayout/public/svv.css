@@ -21,7 +21,8 @@
     } 
 
 body { 
-    background-color:  #444f55
+    background-color:  #444f55;
+    font-family: "LFT Etica", "Lucida Sans Unicode", "Lucida Grande", sans-serif;
     }
 
 .hero {
