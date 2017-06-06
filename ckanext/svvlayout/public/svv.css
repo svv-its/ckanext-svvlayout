@@ -7,7 +7,7 @@
 
 .account-masthead {  
     /* background-color: #ed9300;  */
-    background-color: #444f55
+    background-color: #444f55;
     }
 
 .masthead, .account-masthead .account ul li a {  
@@ -26,8 +26,8 @@ body {
     }
 
 .hero {
-    background-image: none;
-    background-color: #eeeeee;
+    background-image: url("/base/images/fartsgrenser_trondheim.jpg");
+    background-color: #444f55;
     }
 
 a {
